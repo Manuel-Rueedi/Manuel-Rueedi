@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuel-Rueedi
 - 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
